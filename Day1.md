@@ -5,7 +5,7 @@ Solving Goldman Sachs Question sheet
 Q1:-https://www.google.com/url?q=https://practice.geeksforgeeks.org/problems/print-anagrams-together/1/&sa=D&source=editors&ust=1645599845832875&usg=AOvVaw2xS6hdqZbt6ny5kyaknmNH
 
 My Solution:-
-class Solution {
+```class Solution {
     public List<List<String>> Anagrams(String[] string_list) {
         // Code here
         Map<Map<Character,Integer>,List<String>> m=new LinkedHashMap<>();
@@ -41,7 +41,7 @@ class Solution {
         return ans;
     }
 }
-
+```
 Q2-https://www.google.com/url?q=https://practice.geeksforgeeks.org/problems/overlapping-rectangles1924/1/&sa=D&source=editors&ust=1645599845833391&usg=AOvVaw3LxEsRDb2hy19JWwB6CXYu
 
 My Solution:-
